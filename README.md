@@ -109,6 +109,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
 * [percol](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 * [q](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
+* [qkw](https://github.com/ravijanjam/qkw) - Application : Generalizing aliasing, simplifying directory navigation, and executing complex commandline sequences. 
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [resh](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
 * [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
